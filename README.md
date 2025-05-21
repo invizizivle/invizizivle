@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**invizizivle/invizizivle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Frontend Developer** passionate about building simple, clean, and responsive web interfaces.
+<p align="center">
+   <img src="https://i.pinimg.com/736x/bc/60/05/bc6005ea5147212a23b54cc773a0a924.jpg" alt="Yoruichi" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript (Vanilla)
+
+---
+
+### 🌱 Currently:
+- Creating web projects for clients on [Kwork](https://kwork.ru)
+- Improving my frontend development skills
+- Exploring modern tools and best practices in web development
+
+---
+
+### 📫 Let's Connect:
+- [Email](mailto:your.email@example.com)
+- [Telegram](https://t.me/papiratelsatrapov06)
+
+---
+
+Thanks for stopping by! 😊
